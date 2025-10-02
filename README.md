@@ -1,6 +1,6 @@
 # CG 2024/2025
-
-## Group T11G05
+ Project developed for the curricular unit of Computer Graphics at FEUP
+## Group:
 | Name             | Number    | E-Mail             |
 | ---------------- | --------- | ------------------ |
 | Alexandre Morais | 201906049 | up20196049@up.pt   |
