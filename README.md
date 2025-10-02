@@ -4,7 +4,7 @@
 | Name             | Number    | E-Mail             |
 | ---------------- | --------- | ------------------ |
 | Alexandre Morais | 201906049 | up20196049@up.pt   |
-| Nuno Ramos       | 201906051 | up20196051@up.pt   |
+| Nuno Ramos       | 201906051 | nunoramos2142@gmail.com   |
 
 ----
 
